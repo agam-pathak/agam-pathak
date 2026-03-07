@@ -1,4 +1,7 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Agam%20Pathak&fontSize=40&fontColor=ffffff)
+
 # 👋 Hi, I'm Agam Pathak
+💡 Currently learning: System Design, AI Applications, and Scalable Web Systems
 
 💻 B.Tech Computer Science Engineering Student
 🚀 Passionate about AI, Full-Stack Development and Real-World Systems
