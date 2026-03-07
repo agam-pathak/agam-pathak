@@ -75,3 +75,7 @@ Email
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agam-pathak&color=blue)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/agam-pathak/github-snake/blob/output/github-contribution-grid-snake-dark.svg)
