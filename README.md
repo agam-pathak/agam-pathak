@@ -60,6 +60,6 @@ Email
 
 ## 📊 GitHub Stats
 
-![Agam's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agam-pathak&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agam-pathak&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=agam-pathak&color=blue)
