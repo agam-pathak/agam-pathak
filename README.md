@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Agam%20Pathak&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Agam+Pathak;B.Tech+Computer+Science+Engineer;Full+Stack+Developer;Building+AI+Powered+Systems" />
+</p>
 
 # 👋 Hi, I'm Agam Pathak
 💡 Currently learning: System Design, AI Applications, and Scalable Web Systems
@@ -44,9 +46,13 @@ https://agam-portfolio-s.vercel.app
 
 ---
 
-## 🛠 Tech Stack
+## ⚒️ Tech Stack
 
-JavaScript | TypeScript | React | Next.js | Node.js | Supabase | Vercel | Git
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,vercel,git,github,vscode" />
+
+</p>
 
 ---
 
