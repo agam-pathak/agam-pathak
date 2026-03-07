@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Agam Pathak
 💡 Currently learning: System Design, AI Applications, and Scalable Web Systems
-🚀 Open to Software Engineering & AI Internships (2026)
+ 🚀 Open to Software Engineering & AI Internships (2026)
 
 💻 B.Tech Computer Science Engineering Student
 🚀 Passionate about AI, Full-Stack Development and Real-World Systems
