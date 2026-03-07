@@ -78,4 +78,6 @@ Email
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/agam-pathak/github-snake/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agam-pathak/agam-pathak-github-snake/output/github-contribution-grid-snake-dark.svg" />
+</p>
