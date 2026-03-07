@@ -63,3 +63,5 @@ Email
 ![GitHub Streak](https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agam-pathak&color=blue)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agam-pathak&layout=compact&theme=tokyonight)
