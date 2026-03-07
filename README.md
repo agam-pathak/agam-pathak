@@ -54,3 +54,9 @@ https://www.linkedin.com/in/agam-pathak
 
 Email
 [agamworkspace@gmail.com](mailto:agamworkspace@gmail.com)
+
+## 📊 GitHub Stats
+
+![Agam's GitHub stats](https://github-readme-stats.vercel.app/api?username=agam-pathak&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agam-pathak&layout=compact&theme=tokyonight)
