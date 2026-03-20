@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_HOSTED_BANNER_URL_HERE" width="100%" alt="Agam Pathak Banner" />
+  <img src="https://raw.githubusercontent.com/agam-pathak/agam-pathak/main/banner.png" width="100%" alt="Agam Pathak Banner" />
 </p>
 
 # Agam Pathak — Full Stack AI Systems Builder
