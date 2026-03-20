@@ -1,94 +1,68 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Agam+Pathak;AI+%26+Full+Stack+Developer;Building+Lexora+AI;Building+Scalable+AI+Solutions;Open+to+Software+Engineering+Internships+2026" />
+  <img src="YOUR_HOSTED_BANNER_URL_HERE" width="100%" alt="Agam Pathak Banner" />
 </p>
 
-<h2 align="center">👋 Hi, I'm Agam Pathak</h2>
-
-<p align="center">
-Full Stack Developer • AI Systems Builder  
-<br>
-🎓 B.Tech Computer Science Engineering Student @ GEU  
-<br>
-💡 Focus: System Design • AI Agents • Scalable Web Architecture  
-<br>
-🚀 Open to Software Engineering & AI Internships (2026)
-</p>
+# Agam Pathak — Full Stack AI Systems Builder
+Focused on building **Grounded Intelligence** and **Scalable Web Architectures**.  
+Currently scaling **Lexora AI** and researching **Agentic AI Workflows**.
 
 ---
 
-# ⚒️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,postgresql,vercel,git,github,vscode" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔮 Lexora AI
-Professional AI document intelligence workspace with OCR-assisted PDF parsing and grounded chat intelligence.
-
-**Tech:** Next.js 15 • Groq (Llama 3.3) • Supabase • Vercel
-
-🔗 [GitHub](https://github.com/agam-pathak/lexora-ai)  
-🌍 [Live Demo](https://lexora-ai.vercel.app)
-
----
-
-## 🤖 Rahi.AI
-AI-powered travel planning platform and personalized itinerary orchestrator.
-
-**Tech:** Next.js • Supabase • AI APIs • Vercel
-
-🔗 [GitHub](https://github.com/agam-pathak/rahi-ai)  
-🌍 [Live Demo](https://rahi-ai.vercel.app)
-
----
-
-## 🚚 SarthiSync (Transportation Management System)
-Real-time supply chain visibility and logistics orchestration platform for enterprise operations.
-
-**Tech:** React • Node.js • Supabase • Vercel
-
-🔗 [GitHub](https://github.com/agam-pathak/sarthisync-live)  
-🌍 [Live Demo](https://sarthisync-live.vercel.app)
+### 🔮 Core Focus & Intelligence
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Recently Launched: Lexora AI</h4>
+      <p>A professional document intelligence workspace. Built for parsing complex PDFs with OCR and grounded reasoning.</p>
+      <a href="https://github.com/agam-pathak/lexora-ai">Codebase</a> • <a href="https://lexora-ai.vercel.app">Live Engine</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Rahi.AI (Travel Orchestration)</h4>
+      <p>AI-driven itinerary planning. Moving from static searches to dynamic, real-time logistics orchestration.</p>
+      <a href="https://github.com/agam-pathak/rahi-ai">Codebase</a> • <a href="https://rahi-ai.vercel.app">Live App</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚚 SarthiSync (Logistics TMS)</h4>
+      <p>Real-time supply chain visibility dashboard. Optimized for speed and control in enterprise transport management.</p>
+      <a href="https://github.com/agam-pathak/sarthisync-live">Codebase</a> • <a href="https://sarthisync-live.vercel.app">Preview</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Developer Portfolio V2</h4>
+      <p>High-tech branding refresh focused on minimalist aesthetics and premium UX.</p>
+      <a href="https://github.com/agam-pathak/agam-portfolio-s">Source</a> • <a href="https://agam-portfolio-s.vercel.app">Live Site</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Modern Developer Portfolio
-Personal showcase featuring a high-tech premium aesthetic and custom SVG branding.
+### ⚒️ Engineering Stack
 
-🔗 [GitHub](https://github.com/agam-pathak/agam-portfolio-s)  
-🌍 [Live Demo](https://agam-portfolio-s.vercel.app)
+**Frontend & Logic**  
+`Next.js 15` `React 19` `TypeScript` `JavaScript` `TailwindCSS`
+
+**Intelligence & Data**  
+`LLM Workflows (Groq/Ollama)` `Supabase` `PostgreSQL` `Vector DBs`
+
+**Deployment & Tools**  
+`Vercel` `Git & GitHub` `VS Code` `Node.js`
 
 ---
 
-# 📊 GitHub Activity
+### 📈 Activity & Insights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agam-pathak&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agam-pathak&color=blue" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agam-pathak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+### 📫 Let's Build
+[LinkedIn](https://www.linkedin.com/in/agam-pathak) • [Email](mailto:agamworkspace@gmail.com) • [GitHub](https://github.com/agam-pathak)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agam-pathak/agam-pathak-github-snake/output/github-contribution-grid-snake-dark.svg" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=agam-pathak&color=0D1117&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
-
----
-
-# 📫 Connect With Me
-
-🔗 [LinkedIn](https://www.linkedin.com/in/agam-pathak)  
-📧 [Email](mailto:agamworkspace@gmail.com)
