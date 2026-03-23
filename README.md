@@ -31,11 +31,8 @@ AI document intelligence workspace with OCR and grounded reasoning.
 
 **Tech:** Next.js 15 • Groq (Llama 3.3) • Supabase • Vercel
 
-🔗 GitHub  
-https://github.com/agam-pathak/lexora-ai  
-
-🌍 Live Demo  
-https://lexora-ai-nine.vercel.app
+🔗 [GitHub](https://github.com/agam-pathak/lexora-ai)  
+🌍 [Live Demo](https://lexora-ai-nine.vercel.app)
 
 ---
 
@@ -44,11 +41,18 @@ AI-powered travel planning and itinerary orchestration platform.
 
 **Tech:** Next.js • Supabase • AI APIs • Vercel
 
-🔗 GitHub  
-https://github.com/agam-pathak/rahi-ai  
+🔗 [GitHub](https://github.com/agam-pathak/rahi-ai)  
+🌍 [Live Demo](https://rahi-ai.vercel.app)
 
-🌍 Live Demo  
-https://rahi-ai.vercel.app
+---
+
+## 🕹️ JS Arcade
+A premium collection of 15+ immersive arcade games and utilities built with framework-less engineering.
+
+**Tech:** Vanilla JavaScript • HTML5 Canvas • Web Audio API • GitHub Pages
+
+🔗 [GitHub](https://github.com/agam-pathak/JS-Mini-Projects)  
+🌍 [Live Demo](https://agam-pathak.github.io/JS-Mini-Projects/)
 
 ---
 
@@ -57,22 +61,16 @@ Transportation operations and supply chain orchestration dashboard.
 
 **Tech:** React • Node.js • Supabase • Vercel
 
-🔗 GitHub  
-https://github.com/agam-pathak/sarthisync-live  
-
-🌍 Live Demo  
-https://sarthisync-live.vercel.app
+🔗 [GitHub](https://github.com/agam-pathak/sarthisync-live)  
+🌍 [Live Demo](https://sarthisync-live.vercel.app)
 
 ---
 
 ## 🌐 Modern Developer Portfolio
 Personal showcase featuring a high-tech rebranding and premium UX.
 
-🔗 GitHub  
-https://github.com/agam-pathak/agam-portfolio-s  
-
-🌍 Live Demo  
-https://agam-portfolio-s.vercel.app
+🔗 [GitHub](https://github.com/agam-pathak/agam-portfolio-s)  
+🌍 [Live Demo](https://agam-portfolio-s.vercel.app)
 
 ---
 
@@ -83,7 +81,7 @@ https://agam-portfolio-s.vercel.app
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agam-pathak&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agam-pathak&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -102,8 +100,5 @@ https://agam-portfolio-s.vercel.app
 
 # 📫 Connect With Me
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/agam-pathak  
-
-📧 Email  
-agamworkspace@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/agam-pathak)  
+📧 [Email](mailto:agamworkspace@gmail.com)
