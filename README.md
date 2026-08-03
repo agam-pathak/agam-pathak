@@ -66,11 +66,11 @@ Personal showcase featuring a high-tech rebranding and premium UX.
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agam-pathak&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agam-Pathak&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Agam-Pathak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
