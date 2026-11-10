@@ -196,6 +196,20 @@ A personal developer portfolio showcasing my projects, technical interests, and 
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="https://raw.githubusercontent.com/agam-pathak/agam-pathak/main/activity-graph-mobile.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/agam-pathak/agam-pathak/main/activity-graph.svg"
+      alt="GitHub contribution activity graph"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
