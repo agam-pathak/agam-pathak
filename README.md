@@ -196,16 +196,11 @@ A personal developer portfolio showcasing my projects, technical interests, and 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agam-pathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agam-pathak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=agam-pathak&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=agam-pathak&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    height="180"
+  />
 </p>
 
 ---
